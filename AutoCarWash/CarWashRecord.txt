@@ -1,0 +1,8 @@
+02/06/24	22:27:53	6	Under Body Wash,Bug Remover,Pre-Soak,High-Pressure Wash,
+02/06/24	22:37:01	2	High-Pressure Wash,
+02/06/24	22:42:32	2	High-Pressure Wash,
+02/06/24	22:43:16	3	High-Pressure Wash,Air Dry
+02/06/24	22:45:58	6	Under Body Wash,Bug Remover,High-Pressure Wash,Spot Free Rinse,
+02/06/24	22:48:08	3	Pre-Soak,High-Pressure Wash,
+02/06/24	23:05:11	6	Under Body Wash,Bug Remover,High-Pressure Wash,Low Pressure Wax,
+02/06/24	23:07:13	3	Pre-Soak,High-Pressure Wash,
